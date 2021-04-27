@@ -1,6 +1,6 @@
 # NiceVideo
 Nice Movie adalah aplikasi simple yang dapat digunakan untuk melihat daftar list film. Aplikasi ini dibangun menggunakan arsitektur MVP(Model View Presenter).
-Adapun library yang dipakai sebagai berikut
+Adapun library yang dipakai sebagai berikut<br />
 [Retrofit](https://github.com/square/retrofit)<br />
 [RxJava](https://github.com/ReactiveX/RxJava)<br />
 [Glide](https://github.com/bumptech/glide)<br />
